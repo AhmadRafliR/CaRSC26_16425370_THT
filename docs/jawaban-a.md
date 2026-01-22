@@ -39,6 +39,11 @@ Telah menyelesaikan Git SSH (Secure Shell) Security dari [_W3School_](https://ww
 
 ![Screenshot](../src/a/2/ssan4.png)
 
+ ##### e. Branching
+Saya telah melakukan Branching sekaligus pull merge dengan history sebagai berikut :
+![Screenshot](../src/a/2/THT.png)
+![Screenshot](../src/a/2/THT2.png)
+
 #### 3. Pengenalan Ground Control Station
 
 ##### a. Instalasi Mission Planner
